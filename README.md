@@ -16,6 +16,9 @@ https://user-images.githubusercontent.com/74447462/139724417-47a17ab6-e03c-4160-
 
 
 > Music: Break Even on [audiohub](https://audiohub.com/song/break-even "audiohub")
+> 
+![try-VS-learn](https://user-images.githubusercontent.com/74447462/139725366-b39dee9a-ee8e-48a0-981b-3955216a5223.png)
+
 
 ## What I have tried this time?
 
