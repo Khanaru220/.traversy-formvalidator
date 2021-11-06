@@ -27,3 +27,5 @@ https://user-images.githubusercontent.com/74447462/139724417-47a17ab6-e03c-4160-
 - first time use digital mindmap to brainstorm and plan how I solve the problem (messy than I believed)
 - Although the code I try first time look awful. But it has meaning with comment and note I make (I like that messy when look back). The good results I get are the questions I looked for while struggle find multiple ways to barely solve problems. Eventually, I received those answer from teacher.
 - this time I prepare screenshot, material, video editing, music more quickly than before.
+
+![mindmap](https://user-images.githubusercontent.com/74447462/140616425-093ea091-083d-4c03-8c53-4d7a2fc9616b.png)
